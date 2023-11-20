@@ -6,18 +6,55 @@ description: >-
 
 # Uniswap API
 
-## Ethereum Roadmap&#x20;
+🔍 **Uniswap Overview:** Uniswap is a decentralized automated market maker (AMM) protocol built on the Ethereum blockchain. It allows users to swap various ERC-20 tokens without the need for a traditional order book. Uniswap uses liquidity pools and smart contracts to facilitate trustless and permissionless token swaps.
 
-| Feature              | Support                                 |
-| -------------------- | --------------------------------------- |
-| V2 LP Positions      | ✅                                       |
-| V2 Pooling Markets   | ✅                                       |
-| User V3 LP Positions | [❌](https://emojipedia.org/cross-mark/) |
+💡 **How Uniswap Works:** Uniswap operates on a simple yet powerful mechanism. Users can trade tokens directly from their wallets through liquidity pools. These pools consist of pairs of tokens, and prices are determined algorithmically based on the ratio of tokens in the pool.
 
-## Arbitrum Roadmap&#x20;
+{% hint style="info" %}
+Did you know you can track Uniswap live markets at [https://api.decentri.fi/uniswap\_v3/pooling/all-markets](https://api.decentri.fio/uniswap\_v3/pooling/all-markets) and [https://api.decentri.fi/uniswap\_v2/pooling/all-markets](https://api.decentri.fi/uniswap\_v2/pooling/all-markets)
+{% endhint %}
 
-| Feature              | Support                                 |
-| -------------------- | --------------------------------------- |
-| Pooling Markets      | [❌](https://emojipedia.org/cross-mark/) |
-| User V3 LP Positions | [❌](https://emojipedia.org/cross-mark/) |
+## Supported Building Blocks
 
+Currently, Defi Hub transform uniswap (v2 and v3) in the following supported building blocks
+
+* [Liquidity Pools](../../api-endpoints/liquidity-pools/)
+* [Claimables](../../api-endpoints/claimables.md)
+
+## Ethereum Checklist&#x20;
+
+| Feature            | Support |
+| ------------------ | ------- |
+| V2 LP Positions    | ✅       |
+| V2 Pooling Markets | ✅       |
+| V3 Markets         | ✅       |
+| V3 LP Positions    | ✅       |
+| V3 Claimables      | ✅       |
+
+## Optimism Checklist&#x20;
+
+| Feature            | Support |
+| ------------------ | ------- |
+| V3 Pooling Markets | ✅       |
+| v3 LP Positions    | ✅       |
+
+## Optimism Checklist&#x20;
+
+| Feature            | Support |
+| ------------------ | ------- |
+| V3 Pooling Markets | ✅       |
+| v3 LP Positions    | ✅       |
+
+## Polygon Checklist&#x20;
+
+| Feature            | Support |
+| ------------------ | ------- |
+| V3 Pooling Markets | ✅       |
+| v3 LP Positions    | ✅       |
+
+## Base Checklist&#x20;
+
+| Feature            | Support |
+| ------------------ | ------- |
+| V3 Pooling Markets | ✅       |
+| v3 LP Positions    | ✅       |
