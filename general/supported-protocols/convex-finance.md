@@ -1,4 +1,30 @@
+---
+description: Integrate with convex markets and positions.
+---
+
 # Convex Finance API
+
+{% hint style="info" %}
+Did you know you can track convex live markets at
+
+[https://api.decentri.fi/convex/farming/all-markets](https://api.decentri.fi/convex/farming/all-markets)
+{% endhint %}
+
+🔄 **Curve Finance Booster:**
+
+Integrate seamlessly with Convex Finance to supercharge your yield farming experience on Curve Finance. By staking LP (liquidity provider) tokens through our DeFi API, developers can boost rewards and maximize returns.
+
+💱 **Maximized Yields:**
+
+Leverage Convex's expertise in yield aggregation to optimize strategies across various DeFi protocols. Our API integration opens the door for developers to access Convex's capabilities in maximizing yields for deposited assets.
+
+🗳️ **Governance Participation:**
+
+Engage with Convex's governance token, CVX, through our API. Developers can enable users to actively participate in the decision-making process, influencing the direction of Convex Finance.
+
+💼 **Single-Asset Staking:**
+
+Simplify user participation by allowing them to stake single assets and earn rewards effortlessly. Our DeFi API streamlines the integration process, making it accessible to a broader audience.
 
 
 
