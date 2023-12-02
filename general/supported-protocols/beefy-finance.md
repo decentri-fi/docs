@@ -35,6 +35,27 @@ Beefy employs innovative vault strategies to enhance yield and mitigate risks.&#
 | View User Farming Positions   | ✅       |
 | Invest in Farm from Dashboard | ✅       |
 
+## Arbitrum
+
+| Feature                       | Support |
+| ----------------------------- | ------- |
+| View User Farming Positions   | ✅       |
+| Invest in Farm from Dashboard | ✅       |
+
+## Ethereum
+
+| Feature                       | Support |
+| ----------------------------- | ------- |
+| View User Farming Positions   | ✅       |
+| Invest in Farm from Dashboard | ✅       |
+
+## Polygon ZKEVM
+
+| Feature                       | Support |
+| ----------------------------- | ------- |
+| View User Farming Positions   | ✅       |
+| Invest in Farm from Dashboard | ✅       |
+
 ## Optimism&#x20;
 
 | Feature                       | Support |
