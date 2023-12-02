@@ -71,4 +71,4 @@ Beefy employs innovative vault strategies to enhance yield and mitigate risks.&#
 | View User Farming Positions   | ✅       |
 | Invest in Farm from Dashboard | ✅       |
 
-[^1]: 
+[^1]: beefy farming api
