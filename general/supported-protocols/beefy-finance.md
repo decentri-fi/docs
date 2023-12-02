@@ -2,6 +2,12 @@
 
 <figure><img src="../../.gitbook/assets/beefy.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Did you know you can track Beefy's live markets at
+
+https://api.decentri.fi/beefy/farming/all-markets[^1]
+{% endhint %}
+
 🌟 **Beefy Finance Overview**
 
 &#x20;Beefy Finance is a yield farming optimizer that started on the Binance Smart Chain (BSC), designed to simplify and amplify your yield farming experience.
@@ -64,3 +70,5 @@ Beefy employs innovative vault strategies to enhance yield and mitigate risks.&#
 | ----------------------------- | ------- |
 | View User Farming Positions   | ✅       |
 | Invest in Farm from Dashboard | ✅       |
+
+[^1]: 
