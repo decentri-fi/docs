@@ -1,5 +1,7 @@
 # Beefy Finance API
 
+<figure><img src="../../.gitbook/assets/beefy.png" alt=""><figcaption></figcaption></figure>
+
 🌟 **Beefy Finance Overview**
 
 &#x20;Beefy Finance is a yield farming optimizer that started on the Binance Smart Chain (BSC), designed to simplify and amplify your yield farming experience.
