@@ -6,6 +6,7 @@
 
 * [Supported Protocols](general/supported-protocols/README.md)
   * [Blur API](general/supported-protocols/blur-api.md)
+  * [Baseswap API](general/supported-protocols/baseswap-api.md)
   * [Aave API](general/supported-protocols/aave.md)
   * [Bancor API](general/supported-protocols/bancor-api.md)
   * [Iron Bank API](general/supported-protocols/iron-bank-api.md)
