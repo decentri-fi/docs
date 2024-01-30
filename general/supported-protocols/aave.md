@@ -31,7 +31,7 @@ Currently, Defi Hub transforms Aave in the following supported building blocks
 
 * [Lending Pools](../../api-endpoints/lending/)
 * [Farming Pools](../../api-endpoints/farming/)
-* [Claimables](../../api-endpoints/claimables.md)
+* [Claimables](../../api-endpoints/claimables/)
 
 ## Ethereum Checklist
 

@@ -35,7 +35,9 @@
 
 ## API Endpoints
 
-* [💰 Claimables](api-endpoints/claimables.md)
+* [💰 Claimables](api-endpoints/claimables/README.md)
+  * [Claimable Markets](api-endpoints/claimables/claimable-markets.md)
+  * [Supported Claimable Markets](api-endpoints/claimables/supported-claimable-markets.md)
 * [🪙 Balances](api-endpoints/balances.md)
 * [🏷 Labeled Addresses](api-endpoints/labeled-addresses.md)
 * [🔗 ENS API](api-endpoints/ens-api.md)
