@@ -18,8 +18,8 @@ Did you know you can track Uniswap live markets at [https://api.decentri.fi/unis
 
 Currently, Defi Hub transform uniswap (v2 and v3) in the following supported building blocks
 
-* [Liquidity Pools](../../api-endpoints/liquidity-pools/)
-* [Claimables](../../api-endpoints/claimables/)
+* [Liquidity Pools](../../web3-building-blocks/liquidity-pools/)
+* [Claimables](../../web3-building-blocks/claimables/)
 
 ## Ethereum Checklist&#x20;
 

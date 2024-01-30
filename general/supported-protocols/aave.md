@@ -29,9 +29,9 @@ Aave's claimable system allows users to retrieve tokens earned through various a
 
 Currently, Defi Hub transforms Aave in the following supported building blocks
 
-* [Lending Pools](../../api-endpoints/lending/)
-* [Farming Pools](../../api-endpoints/farming/)
-* [Claimables](../../api-endpoints/claimables/)
+* [Lending Pools](../../web3-building-blocks/lending/)
+* [Farming Pools](../../web3-building-blocks/farming/)
+* [Claimables](../../web3-building-blocks/claimables/)
 
 ## Ethereum Checklist
 

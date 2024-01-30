@@ -22,7 +22,7 @@ You can programmatically find out what ✨claimables✨ we currently support for
 {% endswagger-description %}
 {% endswagger %}
 
-Actually fetching the claimables can be done using [the claimable api](../../api-endpoints/claimables/). You can also use the lower level api, like below:
+Actually fetching the claimables can be done using [the claimable api](../../web3-building-blocks/claimables/). You can also use the lower level api, like below:
 
 {% swagger method="get" path="/baseswap/{address}/claimables" baseUrl="https://api.decentrri.fi" summary="" %}
 {% swagger-description %}
