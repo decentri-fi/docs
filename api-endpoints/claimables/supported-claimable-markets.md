@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This section provides a detailed overview of the various claimable markets currently supported by our API. These markets represent a diverse range of opportunities for users to claim benefits like yield, farming rewards, and airdrops. Please note that the availability and specifics of these markets may change, so it is essential to consult the API for the most up-to-date information.
+This section provides a detailed overview of the various claimable markets currently supported by our API. These markets represent a diverse range of opportunities for users to claim benefits like yield, farming rewards, and airdrops. Please note that the availability and specifics of these markets may change, so it is essential to [consult the API for the most up-to-date information](claimable-markets.md).
 
 \
 
