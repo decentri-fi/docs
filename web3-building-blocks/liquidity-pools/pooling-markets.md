@@ -185,5 +185,3 @@ network we want to find a lending market on
 ```
 {% endswagger-response %}
 {% endswagger %}
-
-###

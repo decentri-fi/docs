@@ -7,9 +7,15 @@ description: >-
 
 # 💰 Claimables
 
-### Claimable Building Block
+[Claimable markets](claimable-markets.md) represent a diverse array of opportunities within the cryptocurrency ecosystem where users can claim various forms of rewards or incentives. These markets are a fundamental aspect of decentralized finance (DeFi) platforms and protocols, offering participants the chance to earn additional tokens or benefits.
+
+**Claimables** are actively claimable resources for a specific account.
 
 
+
+## The Claimables API
+
+### List all Claimables for a specific address
 
 {% swagger method="get" path="/{address}" baseUrl="https://claimables.decentri.fi" summary="Get Claimables for a specific address." %}
 {% swagger-description %}
@@ -29,7 +35,7 @@ what protocols to exclude
 {% endswagger-parameter %}
 {% endswagger %}
 
-## The Native API
+## The Native Decentrifi API
 
 Did you know you can also use the native API to get Claimables for specific protocols?&#x20;
 
