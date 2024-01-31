@@ -17,7 +17,7 @@ description: >-
 
 ### List all Claimables for a specific address
 
-{% swagger method="get" path="/{address}" baseUrl="https://claimables.decentri.fi" summary="Get Claimables for a specific address." %}
+{% swagger fullWidth="true" method="get" path="/{address}" baseUrl="https://claimables.decentri.fi" summary="Get Claimables for a specific address." %}
 {% swagger-description %}
 This call gets all possible claimables for an address.
 {% endswagger-description %}
@@ -33,6 +33,77 @@ what protocols to include
 {% swagger-parameter in="query" name="exclude" type="Array<String>" %}
 what protocols to exclude
 {% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="UserClaimableVO" %}
+```
+[
+  {
+    "id": "string",
+    "name": "string",
+    "protocol": {
+      "name": "string",
+      "logo": "string",
+      "slug": "string",
+      "primitives": [
+        "LENDING"
+      ],
+      "website": "string",
+      "company": {
+        "name": "string",
+        "slug": "string"
+      }
+    },
+    "network": {
+      "name": "string",
+      "logo": "string",
+      "chainId": 0
+    },
+    "dollarValue": 0,
+    "amount": 0,
+    "token": {
+      "network": {
+        "name": "string",
+        "logo": "string",
+        "chainId": 0
+      },
+      "logo": "string",
+      "name": "string",
+      "symbol": "string",
+      "address": "string",
+      "decimals": 0,
+      "type": "SINGLE",
+      "totalSupply": 0,
+      "underlyingTokens": [
+        "string"
+      ],
+      "protocol": {
+        "name": "string",
+        "logo": "string",
+        "slug": "string",
+        "primitives": [
+          "LENDING"
+        ],
+        "website": "string",
+        "company": {
+          "name": "string",
+          "slug": "string"
+        }
+      }
+    },
+    "claimTransaction": {
+      "network": {
+        "name": "string",
+        "logo": "string",
+        "chainId": 0
+      },
+      "data": "string",
+      "to": "string",
+      "from": "string"
+    }
+  }
+]
+```
+{% endswagger-response %}
 {% endswagger %}
 
 ## The Native Decentrifi API
