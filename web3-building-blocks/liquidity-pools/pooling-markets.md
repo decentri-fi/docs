@@ -2,11 +2,15 @@
 
 Defitrack tracks various pooling markets across different chains. We try to maintain an up to date database of active and inactive markets in order to locate user funds, as well as locate opportunities.
 
+### Introduction
+
+Pooling Markets in the DeCentriFi ecosystem represent a dynamic segment of the decentralized finance (DeFi) platform, where users can participate in liquidity pools. These markets are essentially collections of liquidity pools that support various DeFi activities such as swapping, yield farming, and staking.
+
 ### Fetching all supported markets for a specific protocol
 
 Return a list of Pooling Markets, which contain information about which tokens can be put in a pool on a specific platform. It often returns the APR, which is the rate you get for providing your assets to the pool.&#x20;
 
-{% hint style="info" %}
+{% hint style="success" %}
 Example: [https://api.decentri.fi/quickswap/pooling/all-markets](https://api.decentri.fi/quickswap/pooling/markets)
 {% endhint %}
 
@@ -85,7 +89,15 @@ slug of the protocol
 {% endswagger-response %}
 {% endswagger %}
 
-### Fetch all pooling markets pertaining to a specific token and network
+### Fetching all supported markets (paginated)
+
+Return a list of Pooling Markets in a paginated fashion, which contain information about which tokens can be put in a pool on a specific platform. It often returns the APR, which is the rate you get for providing your assets to the pool.&#x20;
+
+{% hint style="success" %}
+Example: [https://api.decentri.fi/velodrome/pooling/markets](https://api.decentri.fi/velodrome\_v2/pooling/markets)
+{% endhint %}
+
+### Find all pooling markets pertaining to a specific token and network
 
 Return a list of **pooling markets** on a specific **network** for a specific **token**. This can be used to search for a pooling market on a specific protocol (like uniswap v3) using DAI as your asset to be put in the specific pool.
 
