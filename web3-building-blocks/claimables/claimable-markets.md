@@ -8,6 +8,8 @@ Claimable markets represent a diverse array of opportunities within the cryptocu
 
 At its core, a claimable market in the context of DeFi and cryptocurrencies is a scenario or a platform where users are entitled to claim certain rewards. These rewards are typically earned through participation in various activities such as liquidity provision, staking, or engaging in governance protocols.
 
+We only focus on **recurring claimable markets.** For one-off claimable markets, like airdrops or retroactive funding drops, visit [bankless claimables](https://www.bankless.com/claimables).
+
 #### Examples of Claimable Markets
 
 **1. Farming Rewards on SushiSwap**
