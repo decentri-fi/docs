@@ -17,6 +17,10 @@ description: >-
 
 ### List all Claimables for a specific address
 
+This endpoint allows you to concurrently fetch all supported claimables for a specific address.&#x20;
+
+Parameters to **include** or **exclude** are possible. The argument for these parameters are the **protocol slugs**.
+
 {% swagger fullWidth="false" method="get" path="/{address}" baseUrl="https://claimables.decentri.fi" summary="Get Claimables for a specific address." %}
 {% swagger-description %}
 This call gets all possible claimables for an address.
