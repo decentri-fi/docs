@@ -19,7 +19,12 @@ description: >-
 
 This endpoint allows you to concurrently fetch all supported claimables for a specific address.&#x20;
 
-Parameters to **include** or **exclude** are possible. The argument for these parameters are the **protocol slugs**.
+Parameters to **include** or **exclude** are possible. The argument for these parameters are the **protocol slugs**
+
+{% hint style="info" %}
+An example can be found here:\
+[https://claimables.decentri.fi/0xf18adf71266411FF39FfC268843c9A64b3292d86](https://claimables.decentri.fi/0xf18adf71266411FF39FfC268843c9A64b3292d86)
+{% endhint %}
 
 {% swagger fullWidth="false" method="get" path="/{address}" baseUrl="https://claimables.decentri.fi" summary="Get Claimables for a specific address." %}
 {% swagger-description %}
