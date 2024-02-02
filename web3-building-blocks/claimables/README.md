@@ -17,7 +17,7 @@ description: >-
 
 ### List all Claimables for a specific address
 
-{% swagger fullWidth="true" method="get" path="/{address}" baseUrl="https://claimables.decentri.fi" summary="Get Claimables for a specific address." %}
+{% swagger fullWidth="false" method="get" path="/{address}" baseUrl="https://claimables.decentri.fi" summary="Get Claimables for a specific address." %}
 {% swagger-description %}
 This call gets all possible claimables for an address.
 {% endswagger-description %}
